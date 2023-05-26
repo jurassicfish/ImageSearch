@@ -1,0 +1,28 @@
+
+/* ************** OcrIdentify  ******** */
+#OIImageShow{
+  min-width: 200px;
+  max-width: 200px;
+  min-height: 200px;
+  max-height: 200px;
+  border-width: 1px;
+  border-color: #cccccc;
+  border-style: solid;
+  background-color: #ffffff;
+}
+
+QPushButton{
+  font-family: "Microsoft Yahei", serif;
+}
+
+#OIImgSelect,#OIArea,#OIIdentify{
+  min-height: 50px;
+  max-height: 50px;
+  min-width: 100px;
+  max-width: 100px;
+}
+
+QListWidget{
+  min-width: 200px;
+  max-width: 200px;
+}
